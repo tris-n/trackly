@@ -1,0 +1,5 @@
+REACT_APP_DEMO_ADMIN = {"email":"PUTEMAILHERE","password":"PUTPASSWORDHERE"}
+REACT_APP_DEMO_PROJECTMANAGER = {"email":"PUTEMAILHERE","password":"PUTPASSWORDHERE"}
+REACT_APP_DEMO_DEVELOPER = {"email":"PUTEMAILHERE","password":"PUTPASSWORDHERE"}
+REACT_APP_DEMO_SUBMITTER = {"email":"PUTEMAILHERE","password":"PUTPASSWORDHERE"}
+REACT_APP_FIREBASE_CONFIG = {"apiKey":"PUTAPIKEYHERE","authDomain":"PROJECTNAME.firebaseapp.com","projectId":"PROJECTNAME","storageBucket":"PROJECTNAME.appspot.com","messagingSenderId":"IDHERE","appId":"IDHERE","measurementId":"IDHERE"}
